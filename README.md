@@ -1,2 +1,0 @@
-# samidev
-Sami-Dev Studio
